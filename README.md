@@ -3,7 +3,7 @@ A normal blog to learn Git. This is the first project for the GitHub account of 
 
 > **Git** is essential to be a professional web developer. Learn about version control in Git is something incredibly useful. I can make a lot of things with this knowledge. By the way, I love **GitHub**.
 
-> **Angello Nunez**
+
 
 ## What is Normalblog?
 It is just a normal blog. Another repository for GitHub. This is an example of what you can do with Git. HTML and CSS are just a plus.
